@@ -1,5 +1,3 @@
-import ChatRoom from "./components/LifecycleofReactiveEffects/Chat/ChatRoom";
-
 function App() {
   return (
     <>
@@ -19,7 +17,9 @@ function App() {
       {/* <Comments postId="5" /> */}
       {/* <PlayApp /> */}
       {/* <OnlineOfline /> */}
-      <ChatRoom />
+      {/* <ChatRoom /> */}
+      {/* <PageApp /> */}
+      {/* <Pointer /> */}
     </>
   );
 }
