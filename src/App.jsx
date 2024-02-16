@@ -1,3 +1,5 @@
+import ChatRoomApp from "./components/ReusingLogicwithCustomHooks/ChatRoom/ChatRoomApp";
+
 function App() {
   return (
     <>
@@ -20,6 +22,11 @@ function App() {
       {/* <ChatRoom /> */}
       {/* <PageApp /> */}
       {/* <Pointer /> */}
+      {/* <Timer /> */}
+      {/* <OnlineOrOffline /> */}
+      {/* <SaveButton /> */}
+      {/* <Form1 /> */}
+      <ChatRoomApp />
     </>
   );
 }
